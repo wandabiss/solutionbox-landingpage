@@ -1,21 +1,21 @@
 # Solution
 Solution Challenge 
 
-1.  Pieza de mailing (1)
+## 1.  Pieza de mailing 🤩
 
-- Research del producto
-- Optimizacion de imagenes
+1. Research del producto
+1. Optimizacion de imagenes
+1. Los comentarios HTML pueden aumentar el riesgo de que un correo electrónico se marque como spam
 
- Buenas practicas de CSS en mail => 
- https://css-tricks.com/using-css-in-html-emails-the-real-story/
+Podés verlo aquí -> [PIEZA DE MAILING PRODUCTOS INFORMATICOS](https://wandabiss.github.io/solutionbox-mail/)
 
- - Los comentarios HTML pueden aumentar el riesgo de que un correo electrónico se marque como spam
 
-2.  Banner para la web (1)
+## 2.  Banner para la web 😓
 
 Banner para la web de relojes suunto (940x300) 
 - Animacion con KeyFrame
-
 - Podría haber usado Google Web Designer tambien
 
-3.  Landing page de TV´s Samsung (2)
+## 3.  Landing page de TV´s Samsung 😍
+
+Podés verla aquí -> [LANDING PAGE DE TV'S SAMSUNG](https://wandabiss.github.io/solutionbox-landingpage/)
