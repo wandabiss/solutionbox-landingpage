@@ -66,19 +66,23 @@ h3{
   font-weight: 100;
 }
 
-.components {
+.componentes {
   padding-top: 5rem;
   padding-bottom: 5rem;
   color: #333;
 }
 
-.components h5,
+.componentes h5,
 p {
   margin-top: 2rem;
   font-weight: 300;
 }
 
-.components h5 {
+.portada{
+font-size: 4rem;
+}
+
+.componentes h5 {
   font-weight: 700;
   letter-spacing: 2px;
   font-size: 1rem;
@@ -101,7 +105,7 @@ p {
 }
 
 .carousel-indicators .active {
-  background: #4eafeb;
+  background: black;
 }
 
 .download-bg {
@@ -133,13 +137,16 @@ p {
 .contact-us {
   text-align: center;
   color: #fff;
-  background: #333;
+  background: rgb(134, 134, 134);
   padding-top: 5rem;
   padding-bottom: 5rem;
 }
 
 .contact-us p {
   font-weight: 100;
+}
+.contacto{
+  width:150px;
 }
 
 .form-control {
@@ -151,7 +158,7 @@ p {
   color: #ffffff;
   background-color: transparent;
   background-image: none;
-  -webkit-background-clip: padding-box;
+
   background-clip: padding-box;
   border: 1px solid rgb(255, 255, 255);
   border-radius: 0rem !important;
