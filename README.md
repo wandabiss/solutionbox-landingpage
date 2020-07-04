@@ -31,3 +31,9 @@ Banner para la web de relojes suunto (940x300)
 5. Se podria optimizar mejor para tablet
 
 * #### Podés verla aquí -> [LANDING PAGE DE TV'S SAMSUNG](https://wandabiss.github.io/solutionbox-landingpage/)
+
+## 3.  Maquetado en Velocidad 🚀
+
+1. Landing page con imagenes y contenedores flexibles
+
+* #### Podés verlo aquí -> [MAQUETADO RAPIDO](https://wandabiss.github.io/solutionbox-velocidad)
